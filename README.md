@@ -3,7 +3,7 @@
 <p align="right" alt="coding"> <img heghit="270" width ="400" src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saptarshi-69&label=Profile%20views&color=0e75b6&style=flat" alt="saptarshi-69" /> </p>
 
-<p align="left"> <a href="https://twitter.com/saptarshi" target="blank"><img src="https://img.shields.io/twitter/follow/saptarshi?logo=twitter&style=for-the-badge" alt="saptarshi" /></a> </p>
+<p align="left"> <a href="[https://twitter.com/saptarshi](https://x.com/saptarshid71807)" target="blank"><img src="https://img.shields.io/twitter/follow/saptarshi?logo=twitter&style=for-the-badge" alt="saptarshi" /></a> </p>
 
 - 💬 Ask me about **HTML,CSS,PYTHON,SQL**
 
