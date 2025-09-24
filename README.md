@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saptarshi Dutta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <p align="right" alt="coding"> <img heghit="270" width ="400" src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saptarshi-69&label=Profile%20views&color=0e75b6&style=flat" alt="saptarshi-69" /> </p>
 
